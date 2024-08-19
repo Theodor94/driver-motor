@@ -1,0 +1,45 @@
+c:\users\mariuss\documents\visual studio 2013\Projects\Control_Car\Control_Car\bin\Debug\Control_Car.exe.config
+c:\users\mariuss\documents\visual studio 2013\Projects\Control_Car\Control_Car\obj\Debug\Control_Car.csprojResolveAssemblyReference.cache
+c:\users\mariuss\documents\visual studio 2013\Projects\Control_Car\Control_Car\obj\Debug\Control_Car.Form1.resources
+c:\users\mariuss\documents\visual studio 2013\Projects\Control_Car\Control_Car\obj\Debug\Control_Car.Properties.Resources.resources
+c:\users\mariuss\documents\visual studio 2013\Projects\Control_Car\Control_Car\obj\Debug\Control_Car.csproj.GenerateResource.Cache
+c:\users\mariuss\documents\visual studio 2013\Projects\Control_Car\Control_Car\bin\Debug\Control_Car.exe
+c:\users\mariuss\documents\visual studio 2013\Projects\Control_Car\Control_Car\bin\Debug\Control_Car.pdb
+c:\users\mariuss\documents\visual studio 2013\Projects\Control_Car\Control_Car\obj\Debug\Control_Car.exe
+c:\users\mariuss\documents\visual studio 2013\Projects\Control_Car\Control_Car\obj\Debug\Control_Car.pdb
+C:\Users\MariusS\Desktop\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\bin\Debug\Control_Car.exe.config
+C:\Users\MariusS\Desktop\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\obj\Debug\Control_Car.exe
+C:\Users\MariusS\Desktop\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\obj\Debug\Control_Car.pdb
+C:\Users\MariusS\Desktop\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\bin\Debug\Control_Car.exe
+C:\Users\MariusS\Desktop\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\bin\Debug\Control_Car.pdb
+C:\Users\MariusS\Desktop\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\obj\Debug\Control_Car.csprojResolveAssemblyReference.cache
+C:\Users\MariusS\Desktop\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\obj\Debug\Control_Car.Form1.resources
+C:\Users\MariusS\Desktop\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\obj\Debug\Control_Car.Properties.Resources.resources
+C:\Users\MariusS\Desktop\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\obj\Debug\Control_Car.csproj.GenerateResource.Cache
+D:\Programe\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\bin\Debug\Control_Car.exe.config
+D:\Programe\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\obj\Debug\Control_Car.exe
+D:\Programe\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\obj\Debug\Control_Car.pdb
+D:\Programe\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\bin\Debug\Control_Car.exe
+D:\Programe\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\bin\Debug\Control_Car.pdb
+D:\Programe\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\obj\Debug\Control_Car.csprojResolveAssemblyReference.cache
+D:\Programe\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\obj\Debug\Control_Car.Form1.resources
+D:\Programe\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\obj\Debug\Control_Car.Properties.Resources.resources
+D:\Programe\Proiect ROBOT\Prima parte\C#\Control_Car\Control_Car\obj\Debug\Control_Car.csproj.GenerateResource.Cache
+D:\Photos\Dropbox\Dropbox\Controlbrake\FINAL\Control_Car C#\Control_Car\Control_Car\bin\Debug\Control_Car.exe.config
+D:\Photos\Dropbox\Dropbox\Controlbrake\FINAL\Control_Car C#\Control_Car\Control_Car\obj\Debug\Control_Car.exe
+D:\Photos\Dropbox\Dropbox\Controlbrake\FINAL\Control_Car C#\Control_Car\Control_Car\obj\Debug\Control_Car.pdb
+D:\Photos\Dropbox\Dropbox\Controlbrake\FINAL\Control_Car C#\Control_Car\Control_Car\bin\Debug\Control_Car.exe
+D:\Photos\Dropbox\Dropbox\Controlbrake\FINAL\Control_Car C#\Control_Car\Control_Car\bin\Debug\Control_Car.pdb
+D:\Photos\Dropbox\Dropbox\Controlbrake\FINAL\Control_Car C#\Control_Car\Control_Car\obj\Debug\Control_Car.csprojResolveAssemblyReference.cache
+D:\Photos\Dropbox\Dropbox\Controlbrake\FINAL\Control_Car C#\Control_Car\Control_Car\obj\Debug\Control_Car.Form1.resources
+D:\Photos\Dropbox\Dropbox\Controlbrake\FINAL\Control_Car C#\Control_Car\Control_Car\obj\Debug\Control_Car.Properties.Resources.resources
+D:\Photos\Dropbox\Dropbox\Controlbrake\FINAL\Control_Car C#\Control_Car\Control_Car\obj\Debug\Control_Car.csproj.GenerateResource.Cache
+D:\Dropbox\Licenta\Aplicatie\masinuta anul 2\Control_Car C#_modificat\Control_Car\Control_Car\bin\Debug\Control_Car.exe.config
+D:\Dropbox\Licenta\Aplicatie\masinuta anul 2\Control_Car C#_modificat\Control_Car\Control_Car\obj\Debug\Control_Car.exe
+D:\Dropbox\Licenta\Aplicatie\masinuta anul 2\Control_Car C#_modificat\Control_Car\Control_Car\obj\Debug\Control_Car.pdb
+D:\Dropbox\Licenta\Aplicatie\masinuta anul 2\Control_Car C#_modificat\Control_Car\Control_Car\bin\Debug\Control_Car.exe
+D:\Dropbox\Licenta\Aplicatie\masinuta anul 2\Control_Car C#_modificat\Control_Car\Control_Car\bin\Debug\Control_Car.pdb
+D:\Dropbox\Licenta\Aplicatie\masinuta anul 2\Control_Car C#_modificat\Control_Car\Control_Car\obj\Debug\Control_Car.csprojResolveAssemblyReference.cache
+D:\Dropbox\Licenta\Aplicatie\masinuta anul 2\Control_Car C#_modificat\Control_Car\Control_Car\obj\Debug\Control_Car.Form1.resources
+D:\Dropbox\Licenta\Aplicatie\masinuta anul 2\Control_Car C#_modificat\Control_Car\Control_Car\obj\Debug\Control_Car.Properties.Resources.resources
+D:\Dropbox\Licenta\Aplicatie\masinuta anul 2\Control_Car C#_modificat\Control_Car\Control_Car\obj\Debug\Control_Car.csproj.GenerateResource.Cache
